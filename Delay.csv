@@ -1,0 +1,297 @@
+FLT_ORIG_DT,ACT_ORIG,ACT_DEST,FLT_NBR,DELAY_MIN,OPER_CARR,DELAY_REASON
+1/1/2015,FAI,SEA,132,11,AS,computer system down
+1/1/2015,LWS,SEA,2218,7,QX,S10 2 min-computer was glitching with inf edit so caused the final paper work to be off. fa counted multiple time to make sure her count was on and then we realized the inf pax was not ondnotified ITS04 5 min-5 wchr and 1 aisle chair inbound on 2217
+1/1/2015,MFR,PDX,2328,9,QX,Bag Tag Printer at TC kicking out multiple duplicate tags. 2 PC rebooted. Gate agent left 35 min prior to departure with 1 agent left to check in remaining 15 pax. backed up everything else. Elvira mfrcsa
+1/1/2015,FAI,ANC,2808,14,QX,"flight delayed, 2 other flights on the ground at the same time and computer system down"
+1/1/2015,FAI,ANC,2810,16,QX,multiple unscheduled irregular ops and computer system down
+1/1/2016,YYC,SEA,2119,2,QX,Computer froze up when LC came up to input the numbers into S4A. Had to sign in to another computer and had to print final paperwork off at another gate. Local IT was called
+1/1/2016,BOI,SEA,2231,7,QX,Crew called back CLP software issues delay.//bb
+1/1/2016,SEA,YVR,2304,9,QX,gate agent trying to print on list had paper jam missing pax kept showing up so gate sent them down and printed paperwork and different podium SP8/C10E..ss
+1/1/2016,STS,SEA,2334,19,QX,LC went to submit numbers a glitch occurred causing flight pluck to disappear CLP had to work flight manually station manual proceed had to be done at last minute
+1/1/2016,SEA,FAT,3490,20,OO,"16E.Q16 / DEPARTURE TIME NOT REVISED AFTER REQUESTED, FORCED GATE TO REMAIN OPEN FOR AN EXTENDED BRDG TIME DUE TO TERMINAL DISPLAYS / CX SWAP / AUTH BRDG 1803 .JW."
+1/1/2016,PSP,SEA,517,11,AS,capt requested fax from dispatch held door shut acars down//IT delay- JH
+1/1/2016,SEA,TUS,648,9,AS,"ramp lead unable to change/show load in pit 4, pit 4 showed nil, actual load 82b, dc was unable, contacted clp to make changes to show correct load. Mo"
+1/1/2016,PVR,LAX,1253,3,AS,Paperwork not available for departure
+1/1/2016,SAN,SLC,3397,5,OO,took many times to try and clear a jump-seater thru JACS
+1/1/2016,PAE,SAN,2678,3,QX,"acars system went down, causing pilots to have to call CLP...JI"
+1/1/2017,PAE,PDX,2880,1,QX,Printer onboard INOP had to get load close out from gate agent.
+1/1/2018,PAE,PDX,2880,1,QX,"Printer onboard INOP had to get load close out from gate agent, MH. Recoded, ZP"
+1/1/2018,PDX,GEG,3368,20,OO,Ipad froze during boarding resulting in 2 adults 1 inf not being ONd. Full headcount and name verification completed onboard. IT ticket number 1141908 -ad
+1/1/2019,SEA,ANC,175,7,AS,PST failed when trying to submit final numbers. Reverted to hard copy. Ticket number 1327946. AS
+1/1/2021,GTF,SEA,2030,4,QX,infant edit not working had to call sea training corner to correct it. Trouble ticket filed. Reference number is Incident 1327870
+1/1/2021,SEA,LAX,404,6,AS,Ramp 2 PSTs failed. Turning in hard copy. TKT 1327707...AVA
+1/1/2021,SEA,JNU,71,9,AS,PST failed at the end of flight and crew had to revert to hard copy.Ticket 1327903. AS
+1/1/2022,LAX,SFO,141,13,AS,captain said issues with submitting numbers and had to do with dispatch over the phone
+1/1/2022,PSC,SEA,2101,12,QX,"Internet crashed, needed asst. from CLP/ chg fro F14 to S10 per D.Williams/ AS MCO"
+1/1/2022,PSC,SEA,2344,4,QX,The internet system went down and continued to interrupt our operations. Had to call CLP and text a picture over of the O-97 to submit on their end./ Updated F14 to S10 IT to IT. AS MCO
+1/1/2022,GEG,PAE,2435,2,QX,"Final numbers failed to send to ACARS, crew contact CLP. dw."
+1/1/2022,ZIH,LAX,291,15,AS,no acars everything was given by phone by captain
+1/1/2022,PSP,BOI,3487,3,OO,pax numbers did not electronically transfer
+1/1/2023,SFO,PAE,2064,8,QX,Lead reported scanner malfunction not showing load plan. IT ticket 1820026 opened.
+1/1/2023,PSP,BOI,3491,5,OO,"pax count was not getting to the flight deck. Reached out to SOC to send numbers, FAs did manual count."
+1/1/2023,RDM,SEA,651,14,AS,Delayed boarding due to ipad and image going INOP. IT ticket submitted.
+1/1/2023,EWR,SAN,773,17,AS,RLS MOBILE would not load the flight plan. Had to resort to manual back up. Called IT to make a ticket. Incident number 1819952.
+1/1/2022,LAX,SFO,141,13,AS,captain said issues with submitting numbers and had to do with dispatch over the phone
+1/1/2022,PSC,SEA,2101,12,QX,"Internet crashed, needed asst. from CLP/ chg fro F14 to S10 per D.Williams/ AS MCO"
+1/1/2022,PSC,SEA,2344,4,QX,The internet system went down and continued to interrupt our operations. Had to call CLP and text a picture over of the O-97 to submit on their end./ Updated F14 to S10 IT to IT. AS MCO
+1/1/2022,GEG,PAE,2435,2,QX,"Final numbers failed to send to ACARS, crew contact CLP. dw."
+1/1/2022,ZIH,LAX,291,15,AS,no acars everything was given by phone by captain
+1/1/2022,PSP,BOI,3487,3,OO,pax numbers did not electronically transfer
+1/1/2023,SFO,PAE,2064,8,QX,Lead reported scanner malfunction not showing load plan. IT ticket 1820026 opened.
+1/1/2023,RDM,SFO,2301,34,QX,Delayed boarding due to ipad and image going INOP. IT ticket submitted.
+1/1/2023,GTF,SEA,2444,4,QX,scanner not working multiple attempts filed IT report ticket 1819910
+1/1/2023,MCI,SEA,779,3,AS,IT been shutting on and off. Try multiple times to reset and scanned barcode many times
+1/2/2015,EUG,PDX,2330,4,QX,gate printer jammed when printing final paperwork
+1/2/2015,BWI,SEA,767,3,AS,issues with ramp load submit
+1/2/2016,FAI,SEA,124,58,AS,multiple codes. mx added oil per write up from inbound crew flt was downgrade seatmap did not match up xtra time needed for pax verify and reaccom of 14 oversold seats due computer failed to rework flight w/ correct information
+1/2/2016,BOS,SEA,15,1,AS,Printer problems at DC office. Ticket IM406680
+1/2/2016,HLN,SEA,2305,8,QX,clp late with load plan
+1/2/2016,PDX,BIL,2406,5,QX,FOB registered OK in FOGS at 1555 but did not transfer to S4A. Known issue. CLP manually entered it at 1609..ce
+1/2/2016,STS,LAX,2497,13,QX,flight crew had issue sending FOB to clp. station had to call in FOB to clp for flight crew.
+1/2/2016,PDX,MSO,2559,4,QX,FOB registered OK in FOGS but not transferring into S4A. Known issue. CLP added FOB manually at 1631. ce
+1/2/2016,SEA,MSP,28,3,AS,PST Fail
+1/2/2016,ANC,DUT,3284,22,KS,FltDataTransferSvc - No delay reason provided by partner airline.
+1/2/2016,MKE,SEA,3423,3,OO,PILOT TOOK DELAY DUE TO ACARS NOT WRKING IN NEAR JET BRIDGE
+1/2/2016,BUR,PDX,3455,1,OO,COMPUTER BEEPING BUT NOT ON'ING EVERYONE. AGENT HAD TO CHECK FOR 4-5 NOT ON'S AFTER DONE BOARDING. ALL THE NOT ON'S WERE ACTUALLY ON.
+1/2/2016,LAX,JFK,404,1,VX,shared airport gate printer not working
+1/2/2016,SEA,LAX,436,48,AS,AC swap from 527 to 474 due seat map reflecting 900 and oversold by 20. J.Schwab
+1/2/2016,SEA,LAX,464,15,AS,Seat map reflecting 737-800 time taken to fix map and validate load. J.Schwab
+1/2/2016,LAX,SEA,471,3,AS,crc glitch with seat map...showed an 800...should have been an 900er map. jp
+1/2/2016,SNA,SEA,507,8,AS,boarding scanner delayed..boarding agent had to switch to 2 diff computers
+1/2/2016,PSP,PDX,535,1,AS,ACARS OUTAGE
+1/2/2016,PDX,LAX,550,3,AS,computers went down mid boarding causing metrics to be missed.
+1/2/2016,PHX,PDX,663,3,AS,"psgr with web boarding pass shows never checked in, seat given away, had to pull nonrev computer failure"
+1/2/2016,DAL,DCA,878,5,VX,5 thru guests showing cked in on thru list but not cked in.
+1/2/2017,SEA,PDX,2464,12,QX,f/a trouble with submitting pax count - cleared at 1823/ pax count submitted at 1839. spot 14 gate c16d pn *IMD connectivity
+1/2/2017,SAN,STS,2468,6,QX,CREW HAD TO CONTACT CLP.THEY DID NOT RECEIVE THE UPDATED NBRS OVER ACARS DUE TO COMPUTER GLITCH.
+1/2/2017,SEA,SNA,502,8,AS,Ramp had issue /computer problem with PST submit. reopen add 16 items
+1/2/2017,ANC,SCC,50,3,AS,manual load for flt 50
+1/2/2017,PSP,SFO,596,4,VX,58 - Interact went down lost connectivity for 10 minutes
+1/2/2017,DFW,SEA,667,3,AS,RLST and O97-A loading slow due to Airport internet crashing earlier.
+1/2/2017,DCA,PDX,771,4,AS,Upload bag scanner went inop. Ramp nn to reconfirm Pit 4 numbers
+1/2/2018,LAX,STS,2472,16,QX,load closeout had to be printed and driven out to remote
+1/2/2018,GEG,SEA,2659,1,QX,Crew unable to get numbers from EFB. OPS printed load closeout and sent with GSA to crew. ab/jw
+1/2/2018,PSC,SEA,3461,17,OO,ACARS PROBLEM. HAD TO BE RESET AND FINAL NUMBERS RE-ENTERED. SI DUPPSC01
+1/2/2018,SEA,DFW,662,6,AS,Pilot ACARS and Fit for Duty wasnt working. Had to work with CLP to resolve. JA
+1/2/2019,SEA,EUG,2587,6,QX,pst connectivity problems - had to call clp...da
+1/2/2019,SAN,EWR,772,3,AS,Computer scanner inop and boarding computer slow
+1/2/2019,SEA,ANC,83,4,AS,"Short bags, S4A not allowing submit,CLP unable to make adjustments Hshep"
+1/2/2019,OAK,KOA,845,65,AS,Captain was having trouble receiving his trim setting info for takeoff.
+1/2/2020,PDX,EUG,2353,26,QX,Capt-s ipad deleted his manual. He needed to copy 43 pages before departure.-km
+1/2/2020,SFO,SEA,421,15,AS,TKT 1142557 - System generated baggage discrepancy of 80 bags
+1/2/2020,PDX,MCO,782,3,AS,unable to close out flight due to image errors. 1142907 sl
+1/2/2021,RNO,SEA,2252,16,QX,"flt discrepancy due to ipad issues, released seats that were not supposed to be released. had to reopen flt and fix seat issue for 2CD as ipad released them when it was not supposed to. PNR KKQHVJ"
+1/2/2021,SEA,BUR,520,4,AS,Pilots werent receiving numbers via ACARs and had to have them resent. AS
+1/2/2022,PDX,PHX,100,14,AS,"second agent at 13:12, lead at 13:20, common use computer issues resolved and restocked at 13:26ticket no. 152977 jdt"
+1/2/2022,BOS,SFO,1359,6,AS,IT issue with Oning party of 4 whose VCRS would not update. IT ticket number 1525985
+1/2/2022,BIL,SEA,2046,4,QX,all boarding pass printers were down at counter. an agent had to run back and forth to the gate for boarding passes and security passes
+1/2/2022,SEA,YVR,2154,16,QX,"TC Terrick. PST showing no connection, had to go into comm point to submit, had not used S4A in a while and needed help. IT ticket 1525943. NMB"
+1/2/2022,SJD,SEA,280,5,AS,BAGGAGE SCANNER FAILURE LAST MINUTE POOR CONECTIVITY NEED TO RECOUNT ALL BAGGAGE
+1/2/2022,BZE,LAX,493,9,AS,IT ticket 1525868 - data connectivity and printers inop. Recurring issue.
+1/2/2023,SEA,ANC,107,13,AS,SABRE system outage - CMCM -
+1/2/2023,HNL,ANC,1422,17,AS,RSA mobile requiring verification for every bag scanned IT1821071
+1/2/2023,SEA,SUN,2215,8,QX,"LC plain side died, numbers had to be entered manually into S4A..pb/c2a"
+1/2/2023,SEA,BIL,2457,6,QX,Flight delayed due to gate having issues trying to on Jumpseater on JACS program. IT ticket: 1820840... ag
+1/2/2023,PVR,LAX,250,17,AS,RSA mobile app with poor connectivity unable to send final numbers scanner number 40406
+1/2/2023,STS,LAX,3449,6,OO,"Board end D14, gate agt submit pax count, fa didnt receive, gate resent numbers, still did not work, fa did manual count."
+1/2/2023,SMF,SAN,3493,1,OO,Flt deck was not receiving PAX count even though it showed submitted via ipads and image. Had to verbally confirm PAX count over the radio.
+1/2/2023,SEA,PDX,358,33,AS,Sabre outage caused DHS to not work. Held to try to get DH pilots on...CMCM
+1/2/2023,SEA,LAX,370,26,AS,S10 SABRE SYSTEM OUTAGE CAUSING DELAYED BOARDING AND DENIED BOARDING ISSUES- CMCM
+1/2/2023,SEA,ANC,385,12,AS,S10 SABRE SYSTEM OUTAGE CAUSING DELAYED BOARDING AND DENIED BOARDING ISSUES- CMCM
+1/2/2023,SAN,JFK,392,40,AS,sabre system outage
+1/2/2023,IND,SEA,500,6,AS,RSA mobile would not submit numbers Called CLP and they said others were having issues as well and to submit through S4A and put in IT ticket Ticket number 1820698
+1/2/2023,SEA,PDX,526,4,AS,Sabre outage caused DHS to not work. Held to try to get DH pilots on CMCM
+1/2/2023,OMA,SEA,676,8,AS,RSAM Scanner 42255 not displaying outbound load plan until D-25. IT Ticket 1820544
+1/3/2015,EWR,LAX,169,5,VX,boarding computer inconsistent not working properly
+1/3/2015,IAD,SFO,67,2,VX,PRINTER JAMMED WHILE PRINTING MANIFEST HAD TO CALL FOR REPAI
+1/3/2015,SEA,ANC,81,10,AS,"PST Failure, went to hard copy, Failure report issued, Hshep"
+1/3/2016,SEA,YKM,2025,11,QX,PST crash and GS went to get a second/ 2nd pst was going too slow that finally gs entered numbers at the com point on sp6/c2d..ks
+1/3/2016,SEA,EUG,2299,25,QX,GS ALSO HAD ISSUE SUBMITTING NUMBERS HAD TO CALL CLP BUT ENTER NUMBERS AT COMPOINT ON SP1/C2D
+1/3/2016,STS,PDX,2460,6,QX,EFB inop. had to manually photograph 0-97 and PAX count and send to CLP agent. Had to wait for a return load closeout report to take to the flight deck.
+1/3/2016,BOI,PDX,2502,3,QX,issue with final numbers. final load had to be printed out. clp told ramp they were overweight and needed to pull passengers. once final numbers went through they were ok. a/c slow to get final numbers so they had to print out.
+1/3/2016,CUN,LAX,295,7,VX,PRINTER FAILURE DURING BOARDING
+1/3/2016,LAX,SEA,323,1,AS,computer issues...couldnt close out the flt. jp
+1/3/2016,LAS,SEA,601,12,AS,computers went down multiple times
+1/3/2016,TUS,SEA,641,6,AS,Gate B3 boarding computer operating slowly. IT has contacted multiple times in the last week and was contacted again after todays flight. Station name Pingin address 10.42.93.111
+1/3/2016,DAL,SFO,715,3,VX,SEAT DUPS THROUGH FLIGHT with mobile boarding passes
+1/3/2016,MCI,SEA,759,8,AS,Control computer malfunctioned and didnt allow agent to submit numbers. Boarding Scanner INOP.
+1/3/2016,SEA,SFO,759,31,VX,58 - COMPUTER SYSTEMS-PORT COMP BREAKDOWN
+1/3/2016,DAL,DCA,878,5,VX,sEAT DUPS MOBILE BOARDING PASSES THROUGH GUESTS
+1/3/2016,SEA,ANC,99,13,AS,"Boarding scanner and then boading computer failed, IT ticket number SM1568542. QG"
+1/3/2017,FAI,SEA,128,7,AS,control agent was having I.T. issues trying to clear stand by pax.
+1/3/2017,GEG,PDX,2355,7,QX,FA ipad/cabin count was not working. they used a different one and were able to get it to work. AB/SD
+1/3/2017,SEA,SAN,494,3,AS,"Scanner failed, Hshep"
+1/3/2018,SAN,SFO,1957,8,VX,COMMON USE COMPUTERS FROZE
+1/3/2018,SEA,DFW,664,7,AS,pdc was at 11:08 did not reflect clp had to put in manually..kc
+1/3/2018,ATL,SEA,745,18,AS,unable to unon guest who ticket was a nogo had to contact crc to resolve tix no 543569
+1/3/2019,SEA,ONT,2104,7,QX,ACARS Printer INOP on 625 requiring LCR for flight deck..DY
+1/3/2019,EUG,SEA,2280,6,QX,flight deck data base update wasnt correct with what the flight crew had
+1/3/2019,MFR,PDX,2428,22,QX,data update. ccb. mco confirmed delay code. ks 57480
+1/3/2019,LAS,SEA,611,3,AS,Boarding issues with computer. Computer went down during the boarding process. IT ticket 913118.
+1/3/2019,SEA,ANC,93,3,AS,Boarding pass scanning issue. TKT: pending
+1/3/2020,BOS,SFO,1351,20,AS,kiosks down at ticket counter
+1/3/2020,PSC,SEA,2103,13,QX,Last min request after L1 door closure for LCR by pilot original wheels up of 1210. Training FO
+1/2/2023,SEA,SUN,2215,8,QX,"LC plain side died, numbers had to be entered manually into S4A..pb/c2a"
+1/2/2023,SEA,BIL,2457,6,QX,Flight delayed due to gate having issues trying to on Jumpseater on JACS program. IT ticket: 1820840... ag
+1/2/2023,PVR,LAX,250,17,AS,RSA mobile app with poor connectivity unable to send final numbers scanner number 40406
+1/2/2023,STS,LAX,3449,6,OO,"Board end D14, gate agt submit pax count, fa didnt receive, gate resent numbers, still did not work, fa did manual count."
+1/2/2023,SMF,SAN,3493,1,OO,Flt deck was not receiving PAX count even though it showed submitted via ipads and image. Had to verbally confirm PAX count over the radio.
+1/2/2023,SEA,PDX,358,33,AS,Sabre outage caused DHS to not work. Held to try to get DH pilots on...CMCM
+1/2/2023,SEA,LAX,370,26,AS,S10 SABRE SYSTEM OUTAGE CAUSING DELAYED BOARDING AND DENIED BOARDING ISSUES- CMCM
+1/2/2023,SEA,ANC,385,12,AS,S10 SABRE SYSTEM OUTAGE CAUSING DELAYED BOARDING AND DENIED BOARDING ISSUES- CMCM
+1/2/2023,SAN,JFK,392,40,AS,sabre system outage
+1/2/2023,IND,SEA,500,6,AS,RSA mobile would not submit numbers Called CLP and they said others were having issues as well and to submit through S4A and put in IT ticket Ticket number 1820698
+1/2/2023,SEA,PDX,526,4,AS,Sabre outage caused DHS to not work. Held to try to get DH pilots on CMCM
+1/2/2023,OMA,SEA,676,8,AS,RSAM Scanner 42255 not displaying outbound load plan until D-25. IT Ticket 1820544
+1/3/2015,EWR,LAX,169,5,VX,boarding computer inconsistent not working properly
+1/3/2015,IAD,SFO,67,2,VX,PRINTER JAMMED WHILE PRINTING MANIFEST HAD TO CALL FOR REPAI
+1/3/2015,SEA,ANC,81,10,AS,"PST Failure, went to hard copy, Failure report issued, Hshep"
+1/3/2016,SEA,YKM,2025,11,QX,PST crash and GS went to get a second/ 2nd pst was going too slow that finally gs entered numbers at the com point on sp6/c2d..ks
+1/3/2016,SEA,EUG,2299,25,QX,GS ALSO HAD ISSUE SUBMITTING NUMBERS HAD TO CALL CLP BUT ENTER NUMBERS AT COMPOINT ON SP1/C2D
+1/3/2016,STS,PDX,2460,6,QX,EFB inop. had to manually photograph 0-97 and PAX count and send to CLP agent. Had to wait for a return load closeout report to take to the flight deck.
+1/3/2016,BOI,PDX,2502,3,QX,issue with final numbers. final load had to be printed out. clp told ramp they were overweight and needed to pull passengers. once final numbers went through they were ok. a/c slow to get final numbers so they had to print out.
+1/3/2016,CUN,LAX,295,7,VX,PRINTER FAILURE DURING BOARDING
+1/3/2016,LAX,SEA,323,1,AS,computer issues...couldnt close out the flt. jp
+1/3/2016,LAS,SEA,601,12,AS,computers went down multiple times
+1/3/2016,TUS,SEA,641,6,AS,Gate B3 boarding computer operating slowly. IT has contacted multiple times in the last week and was contacted again after todays flight. Station name Pingin address 10.42.93.111
+1/3/2016,DAL,SFO,715,3,VX,SEAT DUPS THROUGH FLIGHT with mobile boarding passes
+1/3/2016,MCI,SEA,759,8,AS,Control computer malfunctioned and didnt allow agent to submit numbers. Boarding Scanner INOP.
+1/3/2016,SEA,SFO,759,31,VX,58 - COMPUTER SYSTEMS-PORT COMP BREAKDOWN
+1/3/2016,DAL,DCA,878,5,VX,sEAT DUPS MOBILE BOARDING PASSES THROUGH GUESTS
+1/3/2016,SEA,ANC,99,13,AS,"Boarding scanner and then boading computer failed, IT ticket number SM1568542. QG"
+1/3/2017,FAI,SEA,128,7,AS,control agent was having I.T. issues trying to clear stand by pax.
+1/3/2017,GEG,PDX,2355,7,QX,FA ipad/cabin count was not working. they used a different one and were able to get it to work. AB/SD
+1/3/2017,SEA,SAN,494,3,AS,"Scanner failed, Hshep"
+1/3/2018,SAN,SFO,1957,8,VX,COMMON USE COMPUTERS FROZE
+1/3/2018,SEA,DFW,664,7,AS,pdc was at 11:08 did not reflect clp had to put in manually..kc
+1/3/2018,ATL,SEA,745,18,AS,unable to unon guest who ticket was a nogo had to contact crc to resolve tix no 543569
+1/3/2019,SEA,ONT,2104,7,QX,ACARS Printer INOP on 625 requiring LCR for flight deck..DY
+1/3/2019,EUG,SEA,2280,6,QX,flight deck data base update wasnt correct with what the flight crew had
+1/3/2019,MFR,PDX,2428,22,QX,data update. ccb. mco confirmed delay code. ks 57480
+1/3/2019,LAS,SEA,611,3,AS,Boarding issues with computer. Computer went down during the boarding process. IT ticket 913118.
+1/3/2019,SEA,ANC,93,3,AS,Boarding pass scanning issue. TKT: pending
+1/3/2020,BOS,SFO,1351,20,AS,kiosks down at ticket counter
+1/3/2020,PSC,SEA,2103,13,QX,Last min request after L1 door closure for LCR by pilot original wheels up of 1210. Training FO
+1/3/2020,BOS,SEA,25,17,AS,Kiosks down at ticket counter
+1/3/2020,BOS,PDX,29,6,AS,kiosks at ticket counter down
+1/3/2020,RNO,SJC,3494,6,OO,"last name ""pax"" would not process in sabre...crc had to be called"
+1/3/2020,BOS,LAX,433,8,AS,Kiosk at ticket counter down
+1/3/2020,PDX,SNA,580,5,AS,Flight deck indicator showing cargo door open. actual out time 12:03 -mh
+1/3/2020,SEA,STL,730,3,AS,pst error. cargo was showing in pst but cargo wasnt ever on any load plans
+1/3/2021,SFO,LAX,3376,31,OO,PETC was unable to be added to reservation IT TKT 1328356
+1/3/2021,JNU,SEA,7004,20,AS,Scanners would not work. Had to AVP Freighter. Agent put in IT ticket Incident 1328426 for scanners.
+1/3/2022,FAT,SEA,2028,2,QX,Crew declare hardware system EFB failed and had to revert to manual
+1/3/2022,SEA,PUW,2144,7,QX,Crew requested LCR at 1152 due to IT issues. SOC contacted Prod Ops. af
+1/3/2022,HNL,SEA,246,13,AS,IPAD REMOVED NON REV PAX AFTERING ON BOARDING
+1/3/2022,JAC,SEA,3451,25,OO,blocked out at 1501....acars not working at gate
+1/3/2022,ANC,SEA,88,3,AS,AGENTS HAVING TICKETING ISSUES FOR 7 REVENUE STANDBY PASSENGERS AND AN INOP BOARDING PASS PRINTER. AGENT CREATING AN IT TICKET.
+1/3/2023,DAL,SFO,131,6,AS,"Load Plan needed to be resent sent/available to Ramp, RSA Mobile was not working."
+1/3/2023,SEA,OAK,3310,14,OO,PSA Jess had issue removing pax in 21C and had to call a TC to assist. IT ticket number: 1821997... ag
+1/3/2023,SEA,YVR,3321,3,OO,"Issue onboard where flight deck was not able to get PAX count numbers had to have gate agent reopen, and reclose the flight to trigger the PAX count for the flight deck - DY"
+1/3/2023,SBP,SAN,3430,3,OO,pax numbers submitted at d-11 but captain didnt receive until after departure time.
+1/3/2023,FLL,LAX,581,7,AS,Computer/IPAD connectivity issue ticket 1821227
+1/3/2023,PDX,SJC,697,9,AS,ramp scanner would not allow lead to submit final numbers. ramp lead filled out manual load sheet in ops and load submit late....TT1823044
+1/4/2015,SEA,JNU,61,4,AS,"Ramp unable to submit PST, kept getting retry message. QG"
+1/4/2015,SEA,ANC,83,10,AS,"Cargo moved to pit 3, but wouldnt reflect in the PST for the ramp to be able to load it. QG"
+1/4/2016,SEA,ALW,2096,7,QX,ac could not receive final numbers had to wait for LCR from CLP. DW. Crew called back w/ late boarding and CLP. fes.
+1/4/2016,SEA,PSC,2180,15,QX,sp8. flt clr at 1228 door up at 1249. ramp unsure why 21min said waiting on CLP and LCR..ac EFB could not receive numbers. DW
+1/4/2016,GEG,SEA,2225,1,QX,Gate agent reported before boarding that PC kept slowing down and freezing. also told tkt ctr is experiencing same issue. AB/EB
+1/4/2016,SEA,RNO,2255,6,QX,agent ond 2 different boarding passes with the same seat but got no indication of an error then went to clear and had an extra pax on board ..it notified .. IM407081 .. smt
+1/4/2016,FCA,SEA,2285,18,QX,NUMBERS NOT TRANSMITTING TO CAPT. CAPT REQUESTED A LOAD CLOSEOUT REPORT.
+1/4/2016,HLN,SEA,2305,3,QX,computer outage and crew count
+1/4/2016,GEG,SEA,2331,4,QX,"Crew did not receive FW, called CLP to resend but they still did not receive them..ops printed out FW..rj and sp"
+1/4/2016,PDX,STS,2469,3,QX,RLST:1241 LS:1242 CLP called for LC to print out load closeout report do to technical issue between CLP and flight deck. -JK
+1/4/2016,ANC,FAI,2809,14,QX,s4a froze when updating cargo info and it tkt sent by clp
+1/4/2016,CUN,LAX,295,21,VX,58 - COMPUTER SYSTEMS - SABRE SYSTEM FAILURE
+1/4/2016,SEA,SJC,326,5,AS,"Sabre - information not transmitting, verbal reads performed, SABRE Failure, Hshep"
+1/4/2016,ANC,DUT,3296,3,KS,FltDataTransferSvc - No delay reason provided by partner airline.
+1/4/2016,SFO,JFK,34,5,VX,BOARDING PASS  WENT DOWN PRIOR TO BOARDING UNABLE TO LOG BAC
+1/4/2016,PDX,SFO,386,12,AS,computer scanner failed
+1/4/2016,SEA,SNA,500,1,AS,"printer failure caused late PPWK, Hshep"
+1/4/2016,LAS,SEA,601,8,AS,Flight deck did not get numbers from CLP
+1/4/2016,LAS,SEA,605,4,AS,At D-0 the capt called and said he did not receive final numbers. CLP resent numbers. Capt still did not receive numbers. At D 4 the numbers were read over the radio.
+1/4/2016,LAS,SEA,609,1,AS,Scanner Issues during boarding
+1/4/2016,SIT,KTN,62,7,AS,pax count didnt go through to smart4
+1/4/2016,JNU,PSG,64,6,AS,"System outage, manual baggage check in. it code im407057"
+1/4/2016,SEA,DFW,662,14,AS,"information not transmitting, verbal reads performed, SABRE Failure, Hshep"
+1/4/2016,DEN,SEA,679,4,AS,acars went down CLP had to resend nbrs to Capt
+1/4/2016,SEA,GEG,698,119,AS,"Unable to pull weather, also crew delayed IB on F_643. QG"
+1/4/2016,ATL,SEA,745,20,AS,"System wide IT outage. Slow check-in process delayed paxs and bags to gate significantly. Kiosks, CSA Mobile and tkt cntr computers did not work."
+1/4/2016,CHS,SEA,757,3,AS,"Services.IT/COMPUTEREQUIPMENT/SOFTWARE, system wide outage, 25 bags late to gate due to tkt cntr check in issues, soc approved."
+1/4/2016,MCI,SEA,759,5,AS,sabre system down.
+1/4/2017,EWR,LAX,165,16,VX,ACARS not working
+1/4/2017,PSC,SEA,2103,19,QX,ok to board 5 late...scanner not working at gate had 4 slow wchr pax that needed the ramp plus a um...gate agent mistakenly on a pax from a group that checked in at ctr but didnt travel..fa advised 8 min after cleared count error..called clp and it
+1/4/2017,PSC,SEA,2131,4,QX,IT tech had both computers locked due to prior issue and we were only able to get one working. we had to use one computer for both boarding and s4a and we also had 4 deadhead crew members we had to check in
+1/4/2017,SEA,PDX,2573,11,QX,printer issues during the boarding process q6/c2a ..... pr
+1/4/2017,SJD,SFO,279,43,VX,58 - TELMEX IP ADDRESS FAILED
+1/4/2017,FLL,DAL,349,3,VX,"Boarding computer froze, had to restart during boarding"
+1/4/2017,FAI,ANC,55,19,AS,unable to submit numbers due error messages in rlst..on the phone w/clp for the entire time
+1/4/2017,LAX,PDX,569,4,AS,Gate agent computer needed to be rebooted and print final paperwork.
+1/4/2017,WRG,JNU,65,9,AS,PSG Segment XCLD caused S4A to reject ANC as a destination needed a workaround to submit numbers. Showed all ANC outbound and thru load as JNU per CLP
+1/4/2017,SEA,KOA,843,3,AS,"a planned interline did not show on the PST, Manual change made, Hshep"
+1/4/2017,GEG,SEA,9341,3,AS,"After Dispatch sent Release Amendment 2, CLP sent new numbers to crew at 1201L. Crew called Ops at 1204L for new amended numbers from CLP and CLP had to resend number at again 1207L. kk/yh"
+1/4/2017,SAN,SFO,963,7,VX,"wrong fuel numbers on flight plan (remf, cf, minf, etc)"
+1/4/2018,PVR,SFO,1269,73,VX,PVR SABRE OUTAGE TKT AND GATES
+1/4/2018,MCO,SEA,19,4,AS,"System glitch on image, was not upgrading pax."
+1/4/2018,SEA,YYJ,2382,2,QX,efb having trouble receiving final numbers. had to print lcr for the crew q15/c16a ...... pr crew called back CLP and count issue..ss
+1/4/2018,SEA,BOI,3406,20,OO,"AIRCRAFT HAD THE WRONG TAIL NUMBER AND DEPARTURE FLIGHT PROJECTING ON OUR REAL TIME GATE SHEET, IT CAUSE CONFUSION WITH THE RAMP CREW AND GATE AGENTS AS WELL AS THE FUELER. WE CALLED AS AND OO TO TRY TO FIX IT WITH NO LUCK...PB/C16D"
+1/4/2018,SJC,PDX,431,6,AS,acars failure. had to reopen L1 door so capt could sign paper release fit for duty
+1/4/2018,MCI,SEA,683,35,AS,SYSTEM ERROR THE PAX COUNT NUMBERS WERNT MATCHING ON THE FLIGHT CREW PHONE AND THE IMAGE
+1/4/2019,PDX,ANC,125,11,AS,printers inop d10 and d12. scanner inop at boarding door. 2 calls made to arinc...bp
+1/4/2019,BUR,SEA,165,3,AS,At D12 showing 12 people not on but brdg agt states she knows she saw the names on screen and greeted the guest as they passed. had to reconcile names on board.
+1/4/2019,LAX,SJC,2228,4,QX,Cpt advised he needed Load Closeout print out at D-1 due to no service in area
+1/4/2019,BUR,PDX,2500,2,QX,bur bag printer jammed at departure time unable to print paperwork
+1/4/2019,SEA,PDX,2627,14,QX,"EFB INOP on 447 requiring LCR, and also had to call CLP multiple times to input correct FOB numbers to push A/C..DY"
+1/4/2019,SEA,KTN,67,5,AS,"pst failure, had to go hard copy. IT Ticket:913990 Mo"
+1/4/2020,PUW,SEA,2129,2,QX,DURING CHECK IN SEVERAL PNRS HAD FLIGHT COUPON REQUIRED. COMPUTER GLITCH CAUSED A SERIES OF PNRS TO BE UNASSOCIATED REQUIRING FIMMING AT TICKET COUNTER.
+1/4/2020,PUW,SEA,2129,2,QX,DURING CHECK IN SEVERAL PNRS HAD FLIGHT COUPON REQUIRED. COMPUTER GLITCH CAUSED A SERIES OF PNRS TO BE UNASSOCIATED REQUIRING FIMMING AT TICKET COUNTER.
+1/4/2020,SUN,SEA,2377,17,QX,7 min. all green at d5. deice crew contacting cpt. ground crew sees cpt on phone he states he is calling clp because he doesnt have final numbers. then he was ready.deiced for 10 min
+1/4/2020,SJD,LAX,267,6,AS,Unable to PDC flight as INF On 9D was requiring DOCV even when Docs had bien previously and properly entered.Delayed due troubleshooting to get INF properly documented into the sys
+1/4/2020,PHL,SEA,37,3,AS,IMAGE displaced a few pax and uncheck pax during IT TKT 1143301.
+1/4/2020,SEA,SMF,610,3,AS,IPAD issue was not showing correct not on info for guest TKT 1143403. JB
+1/4/2021,CMH,SEA,1193,18,AS,"Technology issues with no bag tags or boarding passes printing. IT Ticket Numbers 1329087 - 1329127, Manual bag tags assigned."
+1/4/2021,SEA,PSC,2306,13,QX,"Ramp having issues with submitting numbers on PST, appeared to be S4A system freeze as multiple spots experienced the same issue, so there was a line to use the computer in the comm point. Had to submit manually on S4A. IT ticket 1329222. NEP/NMB"
+1/4/2021,SEA,PSC,2306,13,QX,"Ramp having issues with submitting numbers on PST, appeared to be a system freeze as multiple spots experienced the same issue, so there was a line to use the computer in the comm point. Had to submit manually on S4A. IT ticket 1329222. NEP/NMB"
+1/4/2022,SEA,IDA,2018,36,QX,PST crashed delaying submit time. Ramp also needed MTX help to close cargo net. IT 1527323 -KU
+1/4/2022,LAX,PDX,371,5,AS,incorrect setting on unit caused comm issues with AC ACARS
+1/4/2023,SEA,ORD,1472,11,AS,Ticket 1822793 RSAM kept logging agent out throughout flight then screen said unavailable. MCGEE loading aft past departure then loading CAGS then pulling equipment and hooking up pushback. eao.
+1/4/2023,BNA,SEA,168,5,AS,iPads went down and had to manually board mid boarding. IT ticket number 1822525.-Meranda
+1/4/2023,MSO,SEA,2160,8,QX,ACARS out at MSO station had to print load closeout and FOB not sending
+1/4/2023,ANC,JNU,7096,17,AS,"ACARS down, Manual read-back of final numbers to flight crew"
+1/4/2023,OGG,SEA,862,9,AS,"1823524 - Scanner issues, unable to claim assignment, app crashing."
+1/5/2015,MCO,SEA,19,29,AS,clp had a problem with the system
+1/5/2015,SJD,SJC,201,20,AS,smart4aviation sys down
+1/5/2015,SEA,YVR,2264,5,QX,Spot 16 was having issues with their PST...had to call into compoint to get their numbers. CK Crew called back late boarding. Gate C16 started boarding at 0702 cleared at 0714. CK
+1/5/2015,SEA,BOI,2390,10,QX,PST Failed at 1018 while confirming numbers. Had to verify numbers with compoint before running numbers with crew... 5 mins can go to S02 Gate C16A waiting for conx UM from 2383 that had been rebooked. CK Crew called back same pn
+1/5/2015,BOS,PDX,33,12,AS,system wide s4a failure that did not allow us to get load plan until 1641 for 1705 departure
+1/5/2015,SEA,SAN,494,16,AS,S4A went down-CLP had to run info manually-crew waiting on numbers. QG
+1/5/2015,LAS,SEA,605,4,AS,s4a computers slow/outage
+1/5/2015,TUS,SEA,641,4,AS,due to S4A system down not communicating with ACARS
+1/5/2015,SEA,DFW,664,15,AS,"S4A went down, had troubles with the passenger count, CLP reverted to manual process. QG"
+1/5/2015,GEG,SEA,693,3,AS,CLP submitted numbers but not received by a/c. DC called CLP and CLP read final counts to crew over radio. ab/eb
+1/5/2015,YVR,LAX,704,5,AS,SMART 4 AVIATION SYSTEM DOWN. COULD NOT GET INTO THE FLIGHT FOR THE FINAL NBERS. CLP WAS ADVISED. FR BS
+1/5/2015,SEA,SLC,726,12,AS,S4A went down and CLP had to revert to manual process to do final numbers. QG
+1/5/2015,ATL,SEA,745,12,AS,Due to CLP system outage in SEA after door closure req to move 20 bags from pit 4 to pit 3 and remove jumpseater. DO
+1/5/2015,BWI,SEA,767,11,AS,Load PLan was received at 1648.
+1/5/2015,SEA,OGG,861,21,AS,Flight showed there was 150 lbs under and then it updated and showed overweight. Had to remove bags to get under weight. QG
+1/5/2016,BOS,SEA,15,12,AS,Printer malfunction ticket number Im406477
+1/5/2016,YYC,SEA,2115,4,QX,Ipad failed to connect to smartpax. Had to restart it 3 times before it would connect
+1/5/2016,SEA,PUW,2156,6,QX,"Q12/C10F. Unlocked PST @ 1351 for 5 hot bags. Resubbed @ 1354. Final numbers in @ 1355. Crew unable to get final numbers, printed LCR @ 1400. fes.. crew called back CLP and ATC. DW"
+1/5/2016,SEA,PDX,2181,6,QX,pst failed had to replace.pn
+1/5/2016,ORD,SEA,21,7,AS,Boarding Computer Issue. Trouble Ticket SM156941.
+1/5/2016,SEA,LWS,2217,3,QX,"sp1..crew said they were waiting for closeout report from clp, link was not going thru gj"
+1/5/2016,PDX,BOI,2223,10,QX,LAA. FAs still grooming acft. Autho boarding at 1550(D-18 of new ETD). CA said he submitted fuel to CLP for close out and CLP did not receive. FOB:1623 Connectivity issues with CLP. -vl
+1/5/2016,BLI,SEA,2329,2,QX,"S4a paperwork wouldnt print had to log out and back in, still didnt work had to swap computers to print and that computer was running slow which delayed loading"
+1/5/2016,BOI,SJC,2403,3,QX,final numbers not received hard copy printed and given to crew//kid/ap//
+1/5/2016,SAN,STS,2468,6,QX,computer glitch at d-10 and gate had difficulty oning last 2 passengers
+1/5/2016,SJC,SLC,2586,5,QX,per capt his ipad would not communicate
+1/5/2016,EUG,SEA,2588,13,QX,Image outage for check in and baggage check
+1/5/2016,FLL,LAX,321,7,VX,CAPT HAD TO READJUST W/B DUE TO STRONG WINDS + MTOW + X FUEL
+1/5/2016,LAS,SEA,619,6,AS,computer issues at gate. ticket im407147
+1/5/2016,LAS,PDX,627,7,AS,GATE COMPUTER SHUT DOWN DURING BOARDING. TICKER NUMBER IM407147
+1/5/2016,SEA,DFW,662,7,AS,"PST wont submit (failure), going to hard copy, Hshep"
+1/5/2016,ORD,PDX,687,5,AS,Boarding computer kept freezing up. Had to manually on paxs. Trouble tix sm1569415
+1/5/2016,SEA,BNA,734,13,AS,"PST would not log into flight, hshep"
+1/5/2016,IAH,SEA,755,15,AS,SYSTEM OUTTAGE DURING BOARDING A/C
+1/5/2016,BOI,LAX,9370,10,QX,waiting for final numbers from clp had to be resent 2 times//kid//
+1/5/2017,ANC,OTZ,157,20,AS,smart would not accept bag count due to threshold exceeded. worked with clp for approx 20 minutes to force numbers thru
